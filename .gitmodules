@@ -1,0 +1,3 @@
+[submodule "submod-helper"]
+	path = submod-helper
+	url = git@github.com:hn3000/submod-helper
